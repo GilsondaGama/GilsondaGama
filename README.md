@@ -1,8 +1,17 @@
 # 👨‍🚀 Gilson da Gama
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilsondagama/)](https://www.linkedin.com/in/gilsondagama/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gilsondagama15gmail.com)](mailto:gilsondagama15gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/gilsondagama/)](https://www.instagram.com/gilsondagama/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gilsondagama/">
+    <img alt="React.js version" src="https://img.shields.io/badge/LinkedIn-gilsondagama-0e76a8?style=flat&logoColor=white&logo=linkedin">
+  </a>
+  <a href="https://www.facebook.com/gilson.dagama">
+    <img alt="React.js version" src="https://img.shields.io/badge/Facebook-gilson.dagama-1778F2?style=flat&logoColor=white&logo=facebook">
+  </a>
+  <a href="https://www.instagram.com/gilsondagama/">
+    <img alt="React.js version" src="https://img.shields.io/badge/Instagram-@gilsondagama-833AB4?style=flat&logoColor=white&logo=instagram">
+  </a>
+</p>
+
 
 ## Olá Pessoas 👋, Sejam Bem-Vindas!
 ### Sou Gilson da Gama, Desenvolvedor FullStack, sou apaixonado por tecnologia e desenvolvimento de aplicações!
