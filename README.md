@@ -1,4 +1,7 @@
-# 👨‍🚀 Gilson da Gama
+<img width="auto" src="https://github.com/GilsondaGama/GilsondaGama/blob/master/images/Banner%20GG.jpg">
+
+
+# Gilson da Gama
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gilsondagama/">
@@ -13,7 +16,7 @@
 </p>
 
 
-## Olá Pessoas 👋, Sejam Bem-Vindas!
+## Olá Pessoal 👋, Sejam Bem-Vindos!
 ### Sou Gilson da Gama, Desenvolvedor FullStack, sou apaixonado por tecnologia e desenvolvimento de aplicações!
 
 - :house: Atualmente em Macapá-AP.
