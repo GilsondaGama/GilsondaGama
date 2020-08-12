@@ -18,7 +18,7 @@
 
 - :house: Atualmente em Macapá-AP.
 - 🎓 9º semestre em Engenharia de Computação.
-- 🚀 Tecnologias: Node.js, ReactJS e React Native.
+- :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
 - :books: Melhorando as skills em Gastby, TypeScript e Flexbox.
 
 > "Para ter o que poucos tem você terá que fazer o que poucos fazem."
