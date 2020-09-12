@@ -20,7 +20,8 @@
 ### Sou Gilson da Gama, Desenvolvedor FullStack, sou apaixonado por tecnologia e desenvolvimento de aplicações!
 
 - :house: Atualmente em Macapá-AP.
-- 🎓 9º semestre em Engenharia de Computação.
+- 🎓 8º semestre em Engenharia de Computação.
+- :computer: Estágio Desenvolvedor no Centro de Gestão da Tecnologia da Informação - PRODAP
 - :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
 - :books: Melhorando as skills em Gastby, NextJS e Adonis.
 
